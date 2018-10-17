@@ -1,0 +1,7 @@
+c:\users\david\source\repos\Lab9(Lists)\Lab9(Lists)\bin\Debug\Lab9(Lists).exe.config
+c:\users\david\source\repos\Lab9(Lists)\Lab9(Lists)\bin\Debug\Lab9(Lists).exe
+c:\users\david\source\repos\Lab9(Lists)\Lab9(Lists)\bin\Debug\Lab9(Lists).pdb
+c:\users\david\source\repos\Lab9(Lists)\Lab9(Lists)\obj\Debug\Lab9(Lists).csprojAssemblyReference.cache
+c:\users\david\source\repos\Lab9(Lists)\Lab9(Lists)\obj\Debug\Lab9(Lists).csproj.CoreCompileInputs.cache
+c:\users\david\source\repos\Lab9(Lists)\Lab9(Lists)\obj\Debug\Lab9(Lists).exe
+c:\users\david\source\repos\Lab9(Lists)\Lab9(Lists)\obj\Debug\Lab9(Lists).pdb
